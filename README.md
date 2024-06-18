@@ -26,8 +26,8 @@ Developed a comprehensive **e-commerce platform, EcoMart**, featuring authentica
   - Improved **backend performance** and **reduced database load** through effective **caching** strategies.
 
 ## Backend - 
-GITHUB - [EcoMart - Backend](https://github.com/Prafful33Tak/ecomart-backend)
-EcoMart App - [Deployed link](https://ecomart-frontend.vercel.app/)
+- GITHUB - [EcoMart - Backend](https://github.com/Prafful33Tak/ecomart-backend)
+- EcoMart App - [Deployed link](https://ecomart-frontend.vercel.app/)
 
 ## EcoMart - App Images
 ![EcoMart-Login](https://github.com/Prafful33Tak/ecomart-backend/assets/88709400/23c23b36-5b93-40b8-98ae-13235823d5cc)
